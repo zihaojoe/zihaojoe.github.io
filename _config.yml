@@ -1,7 +1,7 @@
 # Site settings
 title: My Shire
 SEOTitle: 子豪的博客 | Joe's Blog
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/myphoto2.jpg
 email: zihaozhang2020@u.northwestern.edu
 description: "Every failure is leading towards success."
 keyword: "子豪的博客, Analytics, Machine Learning, Data Science, Consulting, Finance"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/zihaojoe/zihaojoe.github.io.git" # your code re
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Atypical Programmer"
 sidebar-avatar: /img/myphoto.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
