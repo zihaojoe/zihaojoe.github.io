@@ -103,6 +103,9 @@ friends: [
         title: "Google",
         href: "http://google.com"
     },{
+        title: "Facebook",
+        href: "https://facebook.com"
+    },{
         title: "Apple",
         href: "https://apple.com"
     }
