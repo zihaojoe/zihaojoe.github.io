@@ -26,8 +26,6 @@ Provide the system user with a console based menu as follows:
 
 * Exit the system.
   
->  解决方案：进入项目文件夹下的 .git文件中（显示隐藏文件夹或rm .git/index.lock）删除index.lock文件即可。
-
 ```python
 import matplotlib.pyplot as plt
 import os
