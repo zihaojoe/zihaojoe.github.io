@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Origin-Project I Console Based Menu
+title:      Origin-Project 2 Console Based Menu
 subtitle:   The use of csv, collections in python
 date:       2019-09-29
 author:     Joe Zhang
