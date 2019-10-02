@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Original-项目1 
+title:      Original-项目1 客户违约风险预测
 subtitle:   Project 1 Prediction of customer default behavior
 date:       2019-06-30
 author:     Joe Zhang
