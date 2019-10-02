@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Original-Project 2 Console Based Menu
-subtitle:   The use of csv, collections in python
+title:      Original-项目2 控制台菜单
+subtitle:   Project 2 Console Based Menu
 date:       2019-09-29
 author:     Joe Zhang
 header-img: img/post-bg-ios9-web.jpg

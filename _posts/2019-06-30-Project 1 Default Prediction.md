@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Original-Project 1 Default Prediction
-subtitle:   Simple project on predicting P2P deault risk
+title:      Original-项目1 
+subtitle:   Project 1 Prediction of customer default behavior
 date:       2019-06-30
 author:     Joe Zhang
 header-img: img/post-bg-ios9-web.jpg
