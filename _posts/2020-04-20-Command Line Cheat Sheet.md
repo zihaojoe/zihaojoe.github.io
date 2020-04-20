@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Original-命令行语句汇总
-subtitle:   Command Line Cheat Sheet
+subtitle:   Command Line Cheatsheet
 date:       2020-04-20
 author:     Joe Zhang
 header-img: img/post-bg-ios9-web.jpg
@@ -90,3 +90,23 @@ ant
 * <https://meineke.github.io/workflows/>   # TA Session
 * <https://blog.csdn.net/xlgen157387/article/details/50282483>   # Server Config (Renaming)
 * <https://blog.csdn.net/liu_qingbo/article/details/78383892>   # SSH key config
+
+## 4. Git
+* git init
+* git remote add origin git@github.com:michaelliao/learngit.git
+* git clone git@github.com:michaelliao/learngit.git
+
+* git add readme.txt
+* git commit -m "wrote a readme file"   
+    
+* git push origin master
+* git pull origin master    
+     
+* git remote -v   # 查看远程仓库信息
+* git remote rm origin   # 移除远程仓库信息    
+       
+* git checkout -b dev   # -b means create and switch to that branch (git branch dev; git checkout dev)
+* git branch   # check the branches
+
+## 5. Conda
+* conda/source activate xxxEnv
